@@ -133,7 +133,7 @@
                 <p>The API docs for the latest release are always available at:</p>
                 
                 <ul>
-                <li><a href="/documentation/current/apidoc/">http://immutant.org/documentation/current/apidoc/</a></li>
+                <li><a href="/documentation/current/apidoc/">/documentation/current/apidoc/</a></li>
                 </ul>
                 
                 <h2 id="Incremental_Builds" onclick="window.location = '#Incremental_Builds'">Incremental Builds</h2>
@@ -141,14 +141,14 @@
                 <p>If you need cutting-edge features/fixes that aren&#39;t in the latest
                 release, you can use an incremental build.</p>
                 
-                <p>Our CI server publishes an <a href="http://immutant.org/builds/2x/">incremental release</a> for each
+                <p>Our CI server publishes an <a href="/builds/2x/">incremental release</a> for each
                 successful build. In order to use an incremental build, you&#39;ll need to
                 add a repository to your <code>project.clj</code>:</p>
                 
                 <pre class="syntax clojure">(defproject some-project "1.2.3"&#x000A;  ...&#x000A;  :dependencies [[org.immutant/immutant "2.x.incremental.{{BUILD_NUMBER}}"]]&#x000A;  :repositories [["Immutant 2.x incremental builds"&#x000A;                  "http://downloads.immutant.org/incremental/"]])</pre>
                 
                 <p>You should replace <strong>{{BUILD_NUMBER}}</strong> with the actual build number
-                for the version you want to use. You can obtain this from our <a href="http://immutant.org/builds/2x/">builds</a>
+                for the version you want to use. You can obtain this from our <a href="/builds/2x/">builds</a>
                 page.</p>
                 
                 <p>Along with the artifacts, each CI build publishes
@@ -159,7 +159,7 @@
                             <div id="disqus_thread"></div>
                             <script type="text/javascript">
                             var disqus_shortname = 'immutant';
-                            var disqus_url = "http://immutant.org/tutorials/installation/";
+                            var disqus_url = "/tutorials/installation/";
                             var disqus_developer = null;
                             var disqus_identifier = null;
                             (function() {

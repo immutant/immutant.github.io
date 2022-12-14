@@ -44,13 +44,13 @@
   (web/run app))
 </code></pre><p>With <code>:main</code> set to <code>my-app.handler/start</code> in <code>project.clj</code>, you can then start your app like so:</p>
 <pre><code>lein run
-</code></pre><p>If you are deploying your application to <a href="http://wildfly.org/">WildFly</a>, see the <a href="guide-wildfly.html">WildFly guide</a> for information on how <code>:main</code> is handled there.</p><h2 id="h5347">Incremental Builds</h2><p>If you need cutting-edge features/fixes that aren&rsquo;t in the latest release, you can use an incremental build.</p><p>Our CI server publishes an <a href="http://immutant.org/builds/2x/">incremental release</a> for each successful build. In order to use an incremental build, you&rsquo;ll need to add a repository to your <code>project.clj</code>:</p>
+</code></pre><p>If you are deploying your application to <a href="http://wildfly.org/">WildFly</a>, see the <a href="guide-wildfly.html">WildFly guide</a> for information on how <code>:main</code> is handled there.</p><h2 id="h5347">Incremental Builds</h2><p>If you need cutting-edge features/fixes that aren&rsquo;t in the latest release, you can use an incremental build.</p><p>Our CI server publishes an <a href="/builds/2x/">incremental release</a> for each successful build. In order to use an incremental build, you&rsquo;ll need to add a repository to your <code>project.clj</code>:</p>
 <pre><code class="clojure">(defproject some-project &quot;1.2.3&quot;
   ...
   :dependencies [[org.immutant/immutant &quot;2.x.incremental.BUILD_NUMBER&quot;]]
   :repositories [[&quot;Immutant 2.x incremental builds&quot;
                   &quot;http://downloads.immutant.org/incremental/&quot;]])
-</code></pre><p>You should replace <strong>BUILD_NUMBER</strong> with the actual build number for the version you want to use. You can obtain this from our <a href="http://immutant.org/builds/2x/">builds</a> page.</p><h2 id="h5348">Additional Resources</h2><p>The API docs for the latest Immutant release are always available here:</p>
+</code></pre><p>You should replace <strong>BUILD_NUMBER</strong> with the actual build number for the version you want to use. You can obtain this from our <a href="/builds/2x/">builds</a> page.</p><h2 id="h5348">Additional Resources</h2><p>The API docs for the latest Immutant release are always available here:</p>
 <ul>
-  <li><a href="/documentation/current/apidoc/">http://immutant.org/documentation/current/apidoc/</a></li>
+  <li><a href="/documentation/current/apidoc/">/documentation/current/apidoc/</a></li>
 </ul><p>as well as the API docs for the <a href="https://projectodd.ci.cloudbees.com/job/immutant2-incremental/lastSuccessfulBuild/artifact/target/apidocs/index.html">latest CI build</a>.</p><p>If you are interested in using Immutant inside a <a href="http://wildfly.org/">WildFly</a> container, see our <a href="guide-wildfly.html">WildFly guide</a>.</p></div></div></div><script src="assets/jquery.syntax.min.js" type="text/javascript"></script><script src="assets/immutant.js" type="text/javascript"></script></body></html>

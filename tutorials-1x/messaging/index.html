@@ -112,7 +112,7 @@
                 This tutorial is for Immutant 1.x.
                 Go <a href="/documentation/">here</a> for the 2.x documentation!
                 </div>
-                <p>In this tutorial, we&#39;ll explore the <a href="http://immutant.org/builds/LATEST/html-docs/messaging.html">messaging</a> features available to
+                <p>In this tutorial, we&#39;ll explore the <a href="/builds/LATEST/html-docs/messaging.html">messaging</a> features available to
                 your Clojure applications when deployed on Immutant. Because Immutant
                 is built atop <a href="http://www.jboss.org/jbossas">JBoss AS7</a>, it includes the excellent <a href="http://hornetq.org">HornetQ</a>
                 messaging service baked right in. Hence, there is nothing extra to
@@ -225,14 +225,14 @@
                 
                 <pre class="syntax clojure">(require '[immutant.messaging :as msg])&#x000A;&#x000A;;; setup a responder&#x000A;(msg/respond "queue.work" (partial apply +))&#x000A;&#x000A;;; send a request&#x000A;(let [result (msg/request "queue.work" [1 2 3])]&#x000A;  (println @result)) ;; => 6</pre>
                 
-                <p>See the <a href="http://immutant.org/builds/LATEST/html-docs/messaging.html">manual</a> for more options and examples.</p>
+                <p>See the <a href="/builds/LATEST/html-docs/messaging.html">manual</a> for more options and examples.</p>
               </div>
               <div class="comments">
                 
                             <div id="disqus_thread"></div>
                             <script type="text/javascript">
                             var disqus_shortname = 'immutant';
-                            var disqus_url = "http://immutant.org/tutorials-1x/messaging/";
+                            var disqus_url = "/tutorials-1x/messaging/";
                             var disqus_developer = null;
                             var disqus_identifier = null;
                             (function() {

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>http://immutant.org/</id>
+  <id>/</id>
   <title>Immutant</title>
   <updated>2018-01-22T11:53:22-05:00</updated>
-  <link href="http://immutant.org/news.atom" rel="self" type="application/atom+xml" />
-  <link href="http://immutant.org/" rel="alternate" type="text/html" />
+  <link href="/news.atom" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
   <entry>
-    <id>http://immutant.org/news/2018/01/22/announcing-2-1-10/</id>
+    <id>/news/2018/01/22/announcing-2-1-10/</id>
     <title>Immutant 2.1.10 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2018-01-22T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2018/01/22/announcing-2-1-10/" rel="alternate" type="text/html" />
+    <link href="/news/2018/01/22/announcing-2-1-10/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -61,8 +61,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.9&lt;/h2&gt;
       
@@ -73,11 +73,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2017/06/23/announcing-2-1-9/</id>
+    <id>/news/2017/06/23/announcing-2-1-9/</id>
     <title>Immutant 2.1.9 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2017-06-23T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2017/06/23/announcing-2-1-9/" rel="alternate" type="text/html" />
+    <link href="/news/2017/06/23/announcing-2-1-9/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -130,8 +130,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.9&lt;/h2&gt;
       
@@ -140,11 +140,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2017/05/30/announcing-2-1-8/</id>
+    <id>/news/2017/05/30/announcing-2-1-8/</id>
     <title>Immutant 2.1.8 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2017-05-30T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2017/05/30/announcing-2-1-8/" rel="alternate" type="text/html" />
+    <link href="/news/2017/05/30/announcing-2-1-8/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -196,8 +196,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.8&lt;/h2&gt;
       
@@ -207,11 +207,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2017/05/18/announcing-2-1-7/</id>
+    <id>/news/2017/05/18/announcing-2-1-7/</id>
     <title>Immutant 2.1.7 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2017-05-18T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2017/05/18/announcing-2-1-7/" rel="alternate" type="text/html" />
+    <link href="/news/2017/05/18/announcing-2-1-7/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -264,8 +264,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.7&lt;/h2&gt;
       
@@ -277,11 +277,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2017/01/12/announcing-2-1-6/</id>
+    <id>/news/2017/01/12/announcing-2-1-6/</id>
     <title>Immutant 2.1.6 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2017-01-12T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2017/01/12/announcing-2-1-6/" rel="alternate" type="text/html" />
+    <link href="/news/2017/01/12/announcing-2-1-6/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -335,8 +335,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.6&lt;/h2&gt;
       
@@ -349,11 +349,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2016/06/27/announcing-2-1-5/</id>
+    <id>/news/2016/06/27/announcing-2-1-5/</id>
     <title>Immutant 2.1.5 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2016-06-27T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2016/06/27/announcing-2-1-5/" rel="alternate" type="text/html" />
+    <link href="/news/2016/06/27/announcing-2-1-5/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -430,8 +430,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.5&lt;/h2&gt;
       
@@ -445,11 +445,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2016/04/20/announcing-2-1-4/</id>
+    <id>/news/2016/04/20/announcing-2-1-4/</id>
     <title>Immutant 2.1.4 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2016-04-20T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2016/04/20/announcing-2-1-4/" rel="alternate" type="text/html" />
+    <link href="/news/2016/04/20/announcing-2-1-4/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -480,7 +480,7 @@
       &lt;p&gt;We just released Immutant 2.1.4. There are just a couple of small
       changes in this release, only one of which is notable: you can now
       provide a handler deal with any errors that occur when writing the
-      ring response. For details, see the &lt;a href=&quot;http://immutant.org/documentation/2.1.4/apidoc/immutant.web.html#var-run&quot;&gt;immutant.web/run docstring&lt;/a&gt; and
+      ring response. For details, see the &lt;a href=&quot;/documentation/2.1.4/apidoc/immutant.web.html#var-run&quot;&gt;immutant.web/run docstring&lt;/a&gt; and
       the example in &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT-615?focusedCommentId=13194024&amp;amp;page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-13194024&quot;&gt;IMMUTANT-615&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What is Immutant?&lt;/h2&gt;
@@ -498,8 +498,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.4&lt;/h2&gt;
       
@@ -516,11 +516,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2016/03/23/boot-immutant/</id>
+    <id>/news/2016/03/23/boot-immutant/</id>
     <title>An Immutant Plugin For Boot Redux</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2016-03-23T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2016/03/23/boot-immutant/" rel="alternate" type="text/html" />
+    <link href="/news/2016/03/23/boot-immutant/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -542,8 +542,8 @@
       allowing you to use standard Boot tasks...
     </summary>
     <content type="html">
-      &lt;p&gt;Last year, we &lt;a href=&quot;http://immutant.org/news/2015/05/20/boot-immutant/&quot;&gt;released&lt;/a&gt; a &lt;a href=&quot;http://boot-clj.com/&quot;&gt;Boot&lt;/a&gt; plugin for building Immutant WAR
-      archives for deploying to the &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; application server. This
+      &lt;p&gt;Last year, we &lt;a href=&quot;/news/2015/05/20/boot-immutant/&quot;&gt;released&lt;/a&gt; a &lt;a href=&quot;http://boot-clj.com/&quot;&gt;Boot&lt;/a&gt; plugin for building Immutant WAR
+      archives for deploying to the &lt;a href=&quot;/documentation/current/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; application server. This
       initial version was basically a port of the &lt;a href=&quot;https://github.com/immutant/lein-immutant/&quot;&gt;lein-immutant&lt;/a&gt; plugin
       and didn't really behave as a proper Boot plugin should (mainly by
       writing outside of and ignoring files in the fileset).&lt;/p&gt;
@@ -583,16 +583,16 @@
       
       &lt;p&gt;If you're a Boot + Immutant + WildFly user, please see the &lt;a href=&quot;https://github.com/immutant/boot-immutant#installation&quot;&gt;README&lt;/a&gt;
       for installation instructions, give it a try and let us know if you
-      run in to any issues, either through the &lt;a href=&quot;http://immutant.org/community/&quot;&gt;usual channels&lt;/a&gt; or by filing
+      run in to any issues, either through the &lt;a href=&quot;/community/&quot;&gt;usual channels&lt;/a&gt; or by filing
       an &lt;a href=&quot;https://github.com/immutant/boot-immutant/&quot;&gt;issue&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2016/03/08/announcing-2-1-3/</id>
+    <id>/news/2016/03/08/announcing-2-1-3/</id>
     <title>Immutant 2.1.3 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2016-03-08T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2016/03/08/announcing-2-1-3/" rel="alternate" type="text/html" />
+    <link href="/news/2016/03/08/announcing-2-1-3/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -625,7 +625,7 @@
       to improve compute-bound benchmark results.&lt;/p&gt;
       
       &lt;p&gt;One other minor change worth noting is the addition of two functions
-      to the &lt;a href=&quot;http://immutant.org/documentation/2.1.3/apidoc/immutant.web.undertow.html&quot;&gt;immutant.web.undertow&lt;/a&gt; namespace: &lt;code&gt;http-handler&lt;/code&gt;, which turns
+      to the &lt;a href=&quot;/documentation/2.1.3/apidoc/immutant.web.undertow.html&quot;&gt;immutant.web.undertow&lt;/a&gt; namespace: &lt;code&gt;http-handler&lt;/code&gt;, which turns
       a Ring handler into an &lt;a href=&quot;http://undertow.io&quot;&gt;Undertow&lt;/a&gt; &lt;code&gt;HttpHandler&lt;/code&gt;, and
       &lt;code&gt;graceful-shutdown&lt;/code&gt;, which invokes Undertow's ability to gracefully
       shutdown a web server by prohibiting new requests while pending ones
@@ -652,8 +652,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.3&lt;/h2&gt;
       
@@ -673,11 +673,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2016/01/08/announcing-2-1-2/</id>
+    <id>/news/2016/01/08/announcing-2-1-2/</id>
     <title>Immutant 2.1.2 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2016-01-08T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2016/01/08/announcing-2-1-2/" rel="alternate" type="text/html" />
+    <link href="/news/2016/01/08/announcing-2-1-2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -732,8 +732,8 @@
       
       &lt;p&gt;As always, if you have any questions, issues, or other feedback about
       Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.2&lt;/h2&gt;
       
@@ -745,11 +745,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/11/13/announcing-2-1-1/</id>
+    <id>/news/2015/11/13/announcing-2-1-1/</id>
     <title>Immutant 2.1.1 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-11-13T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/11/13/announcing-2-1-1/" rel="alternate" type="text/html" />
+    <link href="/news/2015/11/13/announcing-2-1-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -803,8 +803,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.1&lt;/h2&gt;
       
@@ -829,11 +829,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/10/01/lein-immutant-2-0-1/</id>
+    <id>/news/2015/10/01/lein-immutant-2-0-1/</id>
     <title>New versions of Leiningen and Boot plugins</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-10-01T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/10/01/lein-immutant-2-0-1/" rel="alternate" type="text/html" />
+    <link href="/news/2015/10/01/lein-immutant-2-0-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -861,7 +861,7 @@
     </summary>
     <content type="html">
       &lt;p&gt;This announcement only pertains to those who deploy their applications
-      to &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; or &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP&lt;/a&gt;.&lt;/p&gt;
+      to &lt;a href=&quot;/documentation/2.1.0/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; or &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;We just released version &lt;a href=&quot;https://clojars.org/lein-immutant&quot;&gt;2.0.1&lt;/a&gt; of &lt;a href=&quot;https://github.com/immutant/lein-immutant/&quot;&gt;lein-immutant&lt;/a&gt; and version
       &lt;a href=&quot;https://clojars.org/boot-immutant&quot;&gt;0.4.0&lt;/a&gt; of &lt;a href=&quot;https://github.com/immutant/boot-immutant/&quot;&gt;boot-immutant&lt;/a&gt;. Both releases fix an &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues/111&quot;&gt;issue&lt;/a&gt; where &quot;dev&quot;
@@ -869,20 +869,20 @@
       
       &lt;p&gt;&lt;code&gt;lein-immutant&lt;/code&gt; and &lt;code&gt;boot-immutant&lt;/code&gt; are plugins, for &lt;a href=&quot;http://leiningen.org/&quot;&gt;Leiningen&lt;/a&gt; and
       &lt;a href=&quot;http://boot-clj.com/&quot;&gt;Boot&lt;/a&gt; respectively, that are required for your application to run on
-      &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; or &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP&lt;/a&gt;. Specifically, they provide tasks for packaging
+      &lt;a href=&quot;/documentation/2.1.0/apidoc/guide-wildfly.html&quot;&gt;WildFly&lt;/a&gt; or &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP&lt;/a&gt;. Specifically, they provide tasks for packaging
       your app as a WAR file and testing it &quot;inside&quot; the container.&lt;/p&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode or our mailing list&lt;/a&gt; or
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode or our mailing list&lt;/a&gt; or
       you can file an issue on the appropriate project.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/09/09/datomic-redux/</id>
+    <id>/news/2015/09/09/datomic-redux/</id>
     <title>Using Datomic With Immutant Redux</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-09-09T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/09/09/datomic-redux/" rel="alternate" type="text/html" />
+    <link href="/news/2015/09/09/datomic-redux/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -905,8 +905,8 @@
               ...
     </summary>
     <content type="html">
-      &lt;p&gt;A month ago, we &lt;a href=&quot;http://immutant.org/news/2015/08/03/datomic/&quot;&gt;covered&lt;/a&gt; how to use &lt;a href=&quot;http://www.datomic.com/&quot;&gt;Datomic&lt;/a&gt; with Immutant. Now that
-      Immutant 2.1.0 has been &lt;a href=&quot;http://immutant.org/news/2015/09/01/announcing-2-1-0/&quot;&gt;released&lt;/a&gt;, the process of using Immutant
+      &lt;p&gt;A month ago, we &lt;a href=&quot;/news/2015/08/03/datomic/&quot;&gt;covered&lt;/a&gt; how to use &lt;a href=&quot;http://www.datomic.com/&quot;&gt;Datomic&lt;/a&gt; with Immutant. Now that
+      Immutant 2.1.0 has been &lt;a href=&quot;/news/2015/09/01/announcing-2-1-0/&quot;&gt;released&lt;/a&gt;, the process of using Immutant
       messaging and Datomic in the same application is a bit simpler, so
       we're covering just that here.&lt;/p&gt;
       
@@ -952,16 +952,16 @@
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Datomic
       with Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/#irc&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/#mailing-lists&quot;&gt;our mailing list&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/#irc&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/#mailing-lists&quot;&gt;our mailing list&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/09/08/mailing-list/</id>
+    <id>/news/2015/09/08/mailing-list/</id>
     <title>Mailing List Moved To Google Groups</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-09-08T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/09/08/mailing-list/" rel="alternate" type="text/html" />
+    <link href="/news/2015/09/08/mailing-list/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1010,11 +1010,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/09/01/announcing-2-1-0/</id>
+    <id>/news/2015/09/01/announcing-2-1-0/</id>
     <title>Immutant 2.1.0 Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-09-01T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/09/01/announcing-2-1-0/" rel="alternate" type="text/html" />
+    <link href="/news/2015/09/01/announcing-2-1-0/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1068,17 +1068,17 @@
       &lt;ul&gt;
       &lt;li&gt;Immutant's messaging library can now be used with &lt;a href=&quot;http://www.datomic.com/&quot;&gt;Datomic&lt;/a&gt; either
       in or out of container, as explained more fully in this
-      &lt;a href=&quot;http://immutant.org/news/2015/08/03/datomic/&quot;&gt;post&lt;/a&gt;.&lt;/li&gt;
+      &lt;a href=&quot;/news/2015/08/03/datomic/&quot;&gt;post&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;We had always planned for Immutant to work with Red Hat's
       commercially-supported &lt;a href=&quot;https://www.jboss.org/products/eap&quot;&gt;EAP&lt;/a&gt; product by making it work with WildFly,
       which will form the foundation for EAP 7, expected to be released
       next year. But we had enough EAP 6 subscribers asking to run
       Immutant that it made sense to try and backport it. So we did!
-      See our &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP guide&lt;/a&gt; for more details.&lt;/li&gt;
+      See our &lt;a href=&quot;/documentation/2.1.0/apidoc/guide-EAP.html&quot;&gt;EAP guide&lt;/a&gt; for more details.&lt;/li&gt;
       &lt;li&gt;We upgraded our &lt;a href=&quot;http://undertow.io&quot;&gt;Undertow&lt;/a&gt; dependency to its latest official
       release, which gives us experimental support for HTTP/2.&lt;/li&gt;
       &lt;li&gt;You can now set a timeout for a WebSocket or HTTP stream. See the
-      &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/immutant.web.async.html&quot;&gt;async docs&lt;/a&gt; for more details.&lt;/li&gt;
+      &lt;a href=&quot;/documentation/2.1.0/apidoc/immutant.web.async.html&quot;&gt;async docs&lt;/a&gt; for more details.&lt;/li&gt;
       &lt;li&gt;We now support 4 -- count 'em, FOUR!!! -- major versions of
       Infinispan for &lt;code&gt;immutant.caching&lt;/code&gt;. Out of container, we bumped
       Immutant's dependency to Infinispan 7, but when run in EAP, version
@@ -1094,7 +1094,7 @@
       &lt;code&gt;:singleton&lt;/code&gt;, thereby collapsing two arguments into one.&lt;/li&gt;
       &lt;li&gt;By default, if the action of a scheduled job is running when the
       same job fires again, the two executions happen in parallel. Thanks
-      to &lt;a href=&quot;https://github.com/instilled&quot;&gt;Fabio Bernasconi&lt;/a&gt;, you can now &lt;a href=&quot;http://immutant.org/documentation/2.1.0/apidoc/immutant.scheduling.html#var-allow-concurrent-exec.3F&quot;&gt;disable this&lt;/a&gt; on a per-job basis,
+      to &lt;a href=&quot;https://github.com/instilled&quot;&gt;Fabio Bernasconi&lt;/a&gt;, you can now &lt;a href=&quot;/documentation/2.1.0/apidoc/immutant.scheduling.html#var-allow-concurrent-exec.3F&quot;&gt;disable this&lt;/a&gt; on a per-job basis,
       causing subsequent executions to wait for prior executions to
       finish.&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;All of these issues and more are linked below.&lt;/p&gt;
@@ -1102,8 +1102,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.1.0&lt;/h2&gt;
       
@@ -1124,11 +1124,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/08/03/datomic/</id>
+    <id>/news/2015/08/03/datomic/</id>
     <title>Using Datomic With Immutant</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-08-03T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/08/03/datomic/" rel="alternate" type="text/html" />
+    <link href="/news/2015/08/03/datomic/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1152,8 +1152,8 @@
       available in 2.4.x,...
     </summary>
     <content type="html">
-      &lt;div class=&quot;notice big&quot;&gt; Note: now that &lt;a href=&quot;http://immutant.org/news/2015/09/01/announcing-2-1-0/&quot;&gt;Immutant 2.1.0 is out&lt;/a&gt;,
-      we've published another &lt;a href=&quot;http://immutant.org/news/2015/09/09/datomic-redux/&quot;&gt;Datomic post&lt;/a&gt; covering using
+      &lt;div class=&quot;notice big&quot;&gt; Note: now that &lt;a href=&quot;/news/2015/09/01/announcing-2-1-0/&quot;&gt;Immutant 2.1.0 is out&lt;/a&gt;,
+      we've published another &lt;a href=&quot;/news/2015/09/09/datomic-redux/&quot;&gt;Datomic post&lt;/a&gt; covering using
       it with 2.1.0 specifically.
       &lt;/div&gt;
       
@@ -1167,7 +1167,7 @@
       depends on 2.4.x. We should be able to resolve this with the proper
       dependency exclusions - the API that Datomic uses in 2.3.x is
       available in 2.4.x, but there are two issues that prevent that from
-      working with the current stable release of Immutant (&lt;a href=&quot;http://immutant.org/news/2015/06/22/announcing-2-0-2/&quot;&gt;2.0.2&lt;/a&gt;):&lt;/p&gt;
+      working with the current stable release of Immutant (&lt;a href=&quot;/news/2015/06/22/announcing-2-0-2/&quot;&gt;2.0.2&lt;/a&gt;):&lt;/p&gt;
       
       &lt;ol&gt;
       &lt;li&gt;Immutant 2.0.x uses the &lt;a href=&quot;http://www.oracle.com/technetwork/articles/java/jms20-1947669.html&quot;&gt;JMS 2.0&lt;/a&gt; API, which didn't appear in
@@ -1178,7 +1178,7 @@
       
       &lt;p&gt;But, all is not lost - with Immutant 2.0.x, you have two (non-awesome)
       options for using Datomic, and if you are willing to use recent
-      Immutant &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incremental builds&lt;/a&gt; (and are willing to upgrade to
+      Immutant &lt;a href=&quot;/builds/2x/&quot;&gt;incremental builds&lt;/a&gt; (and are willing to upgrade to
       Immutant 2.1.0 when it is released in a few weeks), you have a third,
       more palatable option.&lt;/p&gt;
       
@@ -1202,12 +1202,12 @@
                         :exclusions [org.immutant/messaging]]
                        ...]&lt;/pre&gt;
       
-      &lt;p&gt;But this means you can't use any of the Immutant &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/immutant.messaging.html&quot;&gt;messaging features&lt;/a&gt;,
+      &lt;p&gt;But this means you can't use any of the Immutant &lt;a href=&quot;/documentation/current/apidoc/immutant.messaging.html&quot;&gt;messaging features&lt;/a&gt;,
       which isn't great.&lt;/p&gt;
       
       &lt;h2&gt;Option 2 - In WildFly Only&lt;/h2&gt;
       
-      &lt;p&gt;An Immutant application &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/guide-wildfly.html&quot;&gt;deployed&lt;/a&gt; to a &lt;a href=&quot;http://wildfly.org/&quot;&gt;WildFly&lt;/a&gt; application server
+      &lt;p&gt;An Immutant application &lt;a href=&quot;/documentation/current/apidoc/guide-wildfly.html&quot;&gt;deployed&lt;/a&gt; to a &lt;a href=&quot;http://wildfly.org/&quot;&gt;WildFly&lt;/a&gt; application server
       doesn't directly use any on the HornetQ APIs, and instead uses the JMS
       API to communicate with the HornetQ provided by WildFly. That HornetQ
       is ClassLoader-isolated, which means your application can bring in its
@@ -1272,7 +1272,7 @@
                                    org.jboss.jbossts.jts/jbossjts-jacorb]]]&lt;/pre&gt;
       
       &lt;p&gt;Note again that this option currently requires you to run a recent
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#602 or newer), which requires
+      &lt;a href=&quot;/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#602 or newer), which requires
       relying on our incremental repo:&lt;/p&gt;
       
       &lt;pre class=&quot;syntax clojure&quot;&gt;
@@ -1282,16 +1282,16 @@
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Datomic
       with Immutant, you can always find us on
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/06/22/announcing-2-0-2/</id>
+    <id>/news/2015/06/22/announcing-2-0-2/</id>
     <title>Immutant 2.0.2 Patch Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-06-22T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/06/22/announcing-2-0-2/" rel="alternate" type="text/html" />
+    <link href="/news/2015/06/22/announcing-2-0-2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1340,8 +1340,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.2&lt;/h2&gt;
       
@@ -1354,11 +1354,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/06/04/activemq-artemis/</id>
+    <id>/news/2015/06/04/activemq-artemis/</id>
     <title>Using ActiveMQ Artemis With Immutant</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-06-04T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/06/04/activemq-artemis/" rel="alternate" type="text/html" />
+    <link href="/news/2015/06/04/activemq-artemis/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -1403,7 +1403,7 @@
       deploying to WildFly).&lt;/p&gt;
       
       &lt;p&gt;If you want to give it a try, you just need to depend on a recent
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#585 or newer)
+      &lt;a href=&quot;/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#585 or newer)
       and make a few adjustments to your &lt;code&gt;:dependencies&lt;/code&gt;:&lt;/p&gt;
       
       &lt;pre&gt;&lt;code&gt;:dependencies [[org.immutant/messaging &quot;2.x.incremental.585&quot;
@@ -1422,18 +1422,18 @@
       &lt;p&gt;Artemis is brand new - once it matures a bit, we may provide an
       immutant-artemis lib that would bring in wunderboss-artemis and
       provide an Artemis management namespace similar to the
-      &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/immutant.messaging.hornetq.html&quot;&gt;immutant.messaging.hornetq&lt;/a&gt; we currently provide.&lt;/p&gt;
+      &lt;a href=&quot;/documentation/current/apidoc/immutant.messaging.hornetq.html&quot;&gt;immutant.messaging.hornetq&lt;/a&gt; we currently provide.&lt;/p&gt;
       
       &lt;p&gt;As always, if you have any issues or feedback, feel free to
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/05/20/boot-immutant/</id>
+    <id>/news/2015/05/20/boot-immutant/</id>
     <title>An Immutant Plugin For Boot</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-05-20T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/05/20/boot-immutant/" rel="alternate" type="text/html" />
+    <link href="/news/2015/05/20/boot-immutant/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -1463,7 +1463,7 @@
       a great &lt;a href=&quot;https://www.youtube.com/watch?v=TcnzB2tB-8Q&quot;&gt;intro at Clojure/West&lt;/a&gt;).&lt;/p&gt;
       
       &lt;p&gt;To support the (probably enormous) set of Immutant 2.x users that use
-      Boot &lt;em&gt;and&lt;/em&gt; &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/guide-wildfly.html&quot;&gt;deploy to WildFly&lt;/a&gt;, we've ported the functionality of our
+      Boot &lt;em&gt;and&lt;/em&gt; &lt;a href=&quot;/documentation/current/apidoc/guide-wildfly.html&quot;&gt;deploy to WildFly&lt;/a&gt;, we've ported the functionality of our
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/&quot;&gt;lein-immutant&lt;/a&gt; plugin to Boot, and have released the cleverly-named
       &lt;a href=&quot;https://github.com/immutant/boot-immutant/&quot;&gt;boot-immutant&lt;/a&gt;.&lt;/p&gt;
       
@@ -1474,15 +1474,15 @@
       &lt;p&gt;We consider the current release (&lt;a href=&quot;https://clojars.org/boot-immutant/versions/0.3.0&quot;&gt;0.3.0&lt;/a&gt;) beta quality. If you're in
       the set of users that would find this plugin useful, give it a try
       and let us know if you run in to any issues, either through the
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;usual channels&lt;/a&gt; or by filing an &lt;a href=&quot;https://github.com/immutant/boot-immutant/&quot;&gt;issue&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;usual channels&lt;/a&gt; or by filing an &lt;a href=&quot;https://github.com/immutant/boot-immutant/&quot;&gt;issue&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/05/18/announcing-2-0-1/</id>
+    <id>/news/2015/05/18/announcing-2-0-1/</id>
     <title>Immutant 2.0.1 Patch Release</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-05-18T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/05/18/announcing-2-0-1/" rel="alternate" type="text/html" />
+    <link href="/news/2015/05/18/announcing-2-0-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1535,14 +1535,14 @@
       &lt;li&gt;Subscribing to remote topics now actually works&lt;/li&gt;
       &lt;li&gt;When running inside &lt;a href=&quot;http://wildfly.org/&quot;&gt;WildFly&lt;/a&gt;, if your &lt;code&gt;:main&lt;/code&gt; doesn't return, we
       abort the deployment instead of letting it hang the deployer. See
-      the &lt;a href=&quot;http://immutant.org/documentation/2.0.1/apidoc/guide-wildfly.html&quot;&gt;WildFly guide&lt;/a&gt; for details.&lt;/li&gt;
+      the &lt;a href=&quot;/documentation/2.0.1/apidoc/guide-wildfly.html&quot;&gt;WildFly guide&lt;/a&gt; for details.&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;See below for a full list of changes.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.1&lt;/h2&gt;
       
@@ -1555,11 +1555,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/04/17/announcing-2-final/</id>
+    <id>/news/2015/04/17/announcing-2-final/</id>
     <title>Immutant 2.0.0 Released (FINALLY!)</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-04-17T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/04/17/announcing-2-final/" rel="alternate" type="text/html" />
+    <link href="/news/2015/04/17/announcing-2-final/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1587,10 +1587,10 @@
     </summary>
     <content type="html">
       &lt;p&gt;It was just last April that
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;we announced our plans&lt;/a&gt; for the second
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;we announced our plans&lt;/a&gt; for the second
       major release of Immutant, code-named &lt;em&gt;The Deuce&lt;/em&gt;. And today, a year
       later, we're happy to announce the end of our beta cycle and the first
-      official release of &lt;a href=&quot;http://immutant.org/documentation/2.0.0/apidoc/&quot;&gt;Immutant 2.0.0&lt;/a&gt;.&lt;/p&gt;
+      official release of &lt;a href=&quot;/documentation/2.0.0/apidoc/&quot;&gt;Immutant 2.0.0&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;We'd like to send out a big, fat &lt;strong&gt;THANK YOU!&lt;/strong&gt; to all our early
       adopters who provided invaluable feedback on the alpha, beta, and
@@ -1615,7 +1615,7 @@
       
       &lt;h2&gt;What's changed in this release?&lt;/h2&gt;
       
-      &lt;p&gt;The only change in this release since &lt;a href=&quot;http://immutant.org/news/2015/04/13/announcing-2-beta3/&quot;&gt;beta3&lt;/a&gt; is a fix for a &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT-557&quot;&gt;race
+      &lt;p&gt;The only change in this release since &lt;a href=&quot;/news/2015/04/13/announcing-2-beta3/&quot;&gt;beta3&lt;/a&gt; is a fix for a &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT-557&quot;&gt;race
       condition&lt;/a&gt; in scheduling that generally only manifests on slow
       systems.&lt;/p&gt;
       
@@ -1623,9 +1623,9 @@
       
       &lt;p&gt;There is no longer any &quot;installation&quot; step as there was in 1.x. Simply
       add the relevant dependency to your project as shown on &lt;a href=&quot;https://clojars.org/org.immutant/immutant&quot;&gt;Clojars&lt;/a&gt;. See
-      the &lt;a href=&quot;http://immutant.org/documentation/2.0.0/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
+      the &lt;a href=&quot;/documentation/2.0.0/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
       
-      &lt;p&gt;The guides included in the &lt;a href=&quot;http://immutant.org/documentation/2.0.0/apidoc/&quot;&gt;apidoc&lt;/a&gt; are the best source of
+      &lt;p&gt;The guides included in the &lt;a href=&quot;/documentation/2.0.0/apidoc/&quot;&gt;apidoc&lt;/a&gt; are the best source of
       information, and our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application provides working code
       samples demonstrating all the Immutant namespaces. Its &lt;code&gt;README&lt;/code&gt;
       includes simple instructions for getting started at a REPL or command
@@ -1633,21 +1633,21 @@
       &quot;uberjar&quot;, a &lt;a href=&quot;http://wildfly.org/&quot;&gt;WildFly&lt;/a&gt; cluster, Heroku and OpenShift.&lt;/p&gt;
       
       &lt;p&gt;If you're already familiar with Immutant 1.x, you should probably take
-      a look at our &lt;a href=&quot;http://immutant.org/documentation/2.0.0/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;.&lt;/p&gt;
+      a look at our &lt;a href=&quot;/documentation/2.0.0/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/04/13/announcing-2-beta3/</id>
+    <id>/news/2015/04/13/announcing-2-beta3/</id>
     <title>Immutant 2 (The Deuce) Beta3 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-04-13T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/04/13/announcing-2-beta3/" rel="alternate" type="text/html" />
+    <link href="/news/2015/04/13/announcing-2-beta3/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1703,27 +1703,27 @@
       notable API changes are:&lt;/p&gt;
       
       &lt;ul&gt;
-      &lt;li&gt;The concurrency for queue &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-listen&quot;&gt;listeners&lt;/a&gt; now defaults to the number of
+      &lt;li&gt;The concurrency for queue &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-listen&quot;&gt;listeners&lt;/a&gt; now defaults to the number of
       cores to provide better messaging throughput out of the box (it was
       1). The default for topic listeners remains at 1.&lt;/li&gt;
-      &lt;li&gt;The &lt;code&gt;:subscription-name&lt;/code&gt; option to &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-context&quot;&gt;immutant.messaging/context&lt;/a&gt; has
+      &lt;li&gt;The &lt;code&gt;:subscription-name&lt;/code&gt; option to &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-context&quot;&gt;immutant.messaging/context&lt;/a&gt; has
       been renamed to &lt;code&gt;:client-id&lt;/code&gt; to remove confusion with the
-      &lt;code&gt;:subscription-name&lt;/code&gt; option to &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-subscribe&quot;&gt;immutant.messaging/subscribe&lt;/a&gt;. Both
+      &lt;code&gt;:subscription-name&lt;/code&gt; option to &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.messaging.html#var-subscribe&quot;&gt;immutant.messaging/subscribe&lt;/a&gt;. Both
       are only used for durable topic subscribers.&lt;/li&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.messaging.pipeline.html#var-pipeline&quot;&gt;immutant.messaging.pipeline/pipeline&lt;/a&gt; error handlers now get passed
+      &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.messaging.pipeline.html#var-pipeline&quot;&gt;immutant.messaging.pipeline/pipeline&lt;/a&gt; error handlers now get passed
       the decoded message instead of the &lt;code&gt;Message&lt;/code&gt; object, and there is
-      now a &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.messaging.pipeline.html#var-retry&quot;&gt;immutant.messaging.pipeline/retry&lt;/a&gt; function to ease
+      now a &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.messaging.pipeline.html#var-retry&quot;&gt;immutant.messaging.pipeline/retry&lt;/a&gt; function to ease
       retrying messages from the error handler.&lt;/li&gt;
       &lt;li&gt;You can now set the headers and status of an async HTTP channel
-      response when calling &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.web.async.html#var-send.21&quot;&gt;immutant.web.async/send!&lt;/a&gt;. You can also now
+      response when calling &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.web.async.html#var-send.21&quot;&gt;immutant.web.async/send!&lt;/a&gt;. You can also now
       provide any valid Ring body type in addition to &lt;code&gt;String&lt;/code&gt; and
       &lt;code&gt;byte[]&lt;/code&gt; to &lt;code&gt;send!&lt;/code&gt;.&lt;/li&gt;
       &lt;li&gt;The &lt;code&gt;:on-complete&lt;/code&gt; option to &lt;code&gt;immutant.web.async/send!&lt;/code&gt; has been
       replaced with two separate callback options: &lt;code&gt;:on-success&lt;/code&gt; and
       &lt;code&gt;:on-error&lt;/code&gt;.&lt;/li&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/immutant.transactions.html#var-manager&quot;&gt;immutant.transactions/manager&lt;/a&gt; is now a function instead of a
+      &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/immutant.transactions.html#var-manager&quot;&gt;immutant.transactions/manager&lt;/a&gt; is now a function instead of a
       value. If you were using the manager directly, you'll now need to
       invoke it.&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;For a full list of changes, see the issue list below.&lt;/p&gt;
@@ -1742,11 +1742,11 @@
       &lt;/ul&gt;&lt;h2&gt;How to try it&lt;/h2&gt;
       
       &lt;p&gt;If you're already familiar with Immutant 1.x, you should take a look
-      at our &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
+      at our &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
       changed in the Clojure namespaces.&lt;/p&gt;
       
       &lt;p&gt;The guides are another good source of information, along with the
-      rest of the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
+      rest of the &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;For a working example, check out our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application!&lt;/p&gt;
       
@@ -1754,13 +1754,13 @@
       
       &lt;p&gt;There is no longer any &quot;installation&quot; step as there was in 1.x. Simply
       add the relevant dependency to your project as shown on &lt;a href=&quot;https://clojars.org/org.immutant/immutant&quot;&gt;Clojars&lt;/a&gt;. See
-      the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta3/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
+      the &lt;a href=&quot;/documentation/2.0.0-beta3/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.0-beta3&lt;/h2&gt;
       
@@ -1798,11 +1798,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/04/02/survey-results/</id>
+    <id>/news/2015/04/02/survey-results/</id>
     <title>Survey Results</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-04-02T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/04/02/survey-results/" rel="alternate" type="text/html" />
+    <link href="/news/2015/04/02/survey-results/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -1875,15 +1875,15 @@
       &lt;p&gt;2.0.0.Final is &lt;em&gt;imminent&lt;/em&gt;! We're pretty excited about that! :)&lt;/p&gt;
       
       &lt;p&gt;As always, if you have any questions, comments, or issues with regards
-      to Immutant, &lt;a href=&quot;http://immutant.org/community&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
+      to Immutant, &lt;a href=&quot;/community&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/03/06/survey-etc/</id>
+    <id>/news/2015/03/06/survey-etc/</id>
     <title>Survey, etc</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-03-06T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/03/06/survey-etc/" rel="alternate" type="text/html" />
+    <link href="/news/2015/03/06/survey-etc/" rel="alternate" type="text/html" />
     <author>
       <name>Jim Crossley</name>
     </author>
@@ -1946,9 +1946,9 @@
       &lt;/code&gt;&lt;/pre&gt;
       
       &lt;p&gt;That &lt;code&gt;-dev&lt;/code&gt; option is triggering the use of
-      &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/immutant.web.html#var-run-dmc&quot;&gt;immutant.web/run-dmc&lt;/a&gt;
+      &lt;a href=&quot;/documentation/current/apidoc/immutant.web.html#var-run-dmc&quot;&gt;immutant.web/run-dmc&lt;/a&gt;
       instead of
-      &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/immutant.web.html#var-run&quot;&gt;immutant.web/run&lt;/a&gt;
+      &lt;a href=&quot;/documentation/current/apidoc/immutant.web.html#var-run&quot;&gt;immutant.web/run&lt;/a&gt;
       so it should plop you in your browser with code-reloading enabled. You
       can pass most of the other &lt;code&gt;run&lt;/code&gt; options on the command line as well,
       e.g.&lt;/p&gt;
@@ -1959,7 +1959,7 @@
       &lt;h3&gt;Beta2 bugs&lt;/h3&gt;
       
       &lt;p&gt;In our last release,
-      &lt;a href=&quot;http://immutant.org/news/2015/02/09/announcing-2-beta2/&quot;&gt;2.0.0-beta2&lt;/a&gt;, we updated our
+      &lt;a href=&quot;/news/2015/02/09/announcing-2-beta2/&quot;&gt;2.0.0-beta2&lt;/a&gt;, we updated our
       dependency on the excellent
       &lt;a href=&quot;https://github.com/ztellman/potemkin&quot;&gt;potemkin&lt;/a&gt; library to
       version 0.3.11. Unfortunately, that exposed
@@ -1967,7 +1967,7 @@
       &lt;code&gt;clojure.core/find&lt;/code&gt; was used on our Ring request map. Fortunately, it
       was already fixed in potemkin's HEAD, and Zach was kind enough to
       release 0.3.12. We've bumped up to that in our
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incrementals&lt;/a&gt; and hence our next
+      &lt;a href=&quot;/builds/2x/&quot;&gt;incrementals&lt;/a&gt; and hence our next
       release.&lt;/p&gt;
       
       &lt;p&gt;We've also fixed a
@@ -1983,11 +1983,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2015/02/09/announcing-2-beta2/</id>
+    <id>/news/2015/02/09/announcing-2-beta2/</id>
     <title>Immutant 2 (The Deuce) Beta2 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2015-02-09T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2015/02/09/announcing-2-beta2/" rel="alternate" type="text/html" />
+    <link href="/news/2015/02/09/announcing-2-beta2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2037,12 +2037,12 @@
       
       &lt;h2&gt;What's changed in this release?&lt;/h2&gt;
       
-      &lt;p&gt;The biggest change in this release is a &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/immutant.web.async.html&quot;&gt;new API&lt;/a&gt; for communicating
+      &lt;p&gt;The biggest change in this release is a &lt;a href=&quot;/documentation/2.0.0-beta2/apidoc/immutant.web.async.html&quot;&gt;new API&lt;/a&gt; for communicating
       with web clients asynchronously, either via an &lt;a href=&quot;http://en.wikipedia.org/wiki/Chunked_transfer_encoding&quot;&gt;HTTP stream&lt;/a&gt;, over a
       &lt;a href=&quot;http://en.wikipedia.org/wiki/WebSocket&quot;&gt;WebSocket&lt;/a&gt;, or using &lt;a href=&quot;http://www.w3.org/TR/eventsource/&quot;&gt;Server-Sent Events&lt;/a&gt;. As part of this change,
       the &lt;code&gt;immutant.web.websocket&lt;/code&gt; namespace has been removed, but
       &lt;code&gt;wrap-websocket&lt;/code&gt; still exists, and has been moved to
-      &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/immutant.web.middleware.html&quot;&gt;immutant.web.middleware&lt;/a&gt;. For more details, see the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/guide-web.html&quot;&gt;web guide&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/documentation/2.0.0-beta2/apidoc/immutant.web.middleware.html&quot;&gt;immutant.web.middleware&lt;/a&gt;. For more details, see the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/guide-web.html&quot;&gt;web guide&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;In conjunction with this new API, we've submitted changes to &lt;a href=&quot;https://github.com/ptaoussanis/sente&quot;&gt;Sente&lt;/a&gt;
       that will allow you to use its next release with Immutant.&lt;/p&gt;
@@ -2052,11 +2052,11 @@
       &lt;h2&gt;How to try it&lt;/h2&gt;
       
       &lt;p&gt;If you're already familiar with Immutant 1.x, you should take a look
-      at our &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
+      at our &lt;a href=&quot;/documentation/2.0.0-beta2/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
       changed in the Clojure namespaces.&lt;/p&gt;
       
       &lt;p&gt;The guides are another good source of information, along with the
-      rest of the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
+      rest of the &lt;a href=&quot;/documentation/2.0.0-beta2/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;For a working example, check out our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application!&lt;/p&gt;
       
@@ -2064,13 +2064,13 @@
       
       &lt;p&gt;There is no longer any &quot;installation&quot; step as there was in 1.x. Simply
       add the relevant dependency to your project as shown on &lt;a href=&quot;https://clojars.org/org.immutant/immutant&quot;&gt;Clojars&lt;/a&gt;. See
-      the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta2/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
+      the &lt;a href=&quot;/documentation/2.0.0-beta2/apidoc/guide-installation.html&quot;&gt;installation guide&lt;/a&gt; for more details.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.0-beta2&lt;/h2&gt;
       
@@ -2087,11 +2087,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/11/20/announcing-2-beta1/</id>
+    <id>/news/2014/11/20/announcing-2-beta1/</id>
     <title>Immutant 2 (The Deuce) Beta1 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-11-20T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/11/20/announcing-2-beta1/" rel="alternate" type="text/html" />
+    <link href="/news/2014/11/20/announcing-2-beta1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2168,11 +2168,11 @@
       &lt;h2&gt;How to try it&lt;/h2&gt;
       
       &lt;p&gt;If you're already familiar with Immutant 1.x, you should take a look
-      at our &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta1/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
+      at our &lt;a href=&quot;/documentation/2.0.0-beta1/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
       changed in the Clojure namespaces.&lt;/p&gt;
       
       &lt;p&gt;The guides are another good source of information, along with the
-      rest of the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-beta1/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
+      rest of the &lt;a href=&quot;/documentation/2.0.0-beta1/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;For a working example, check out our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application!&lt;/p&gt;
       
@@ -2190,8 +2190,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.0-beta1&lt;/h2&gt;
       
@@ -2212,11 +2212,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/10/23/announcing-2-alpha2/</id>
+    <id>/news/2014/10/23/announcing-2-alpha2/</id>
     <title>Immutant 2 (The Deuce) Alpha2 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-10-23T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/10/23/announcing-2-alpha2/" rel="alternate" type="text/html" />
+    <link href="/news/2014/10/23/announcing-2-alpha2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2278,7 +2278,7 @@
       &lt;ul&gt;
       &lt;li&gt;Though not strictly part of the release, we've significantly
       rearranged our documentation. The &quot;tutorials&quot; are now called
-      &quot;guides&quot;, and we publish them right along with the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-alpha2/apidoc/&quot;&gt;apidoc&lt;/a&gt;. This
+      &quot;guides&quot;, and we publish them right along with the &lt;a href=&quot;/documentation/2.0.0-alpha2/apidoc/&quot;&gt;apidoc&lt;/a&gt;. This
       gives us a &quot;one-stop doc shop&quot; with better, cross-referenced
       content.&lt;/li&gt;
       &lt;li&gt;We've introduced an &lt;code&gt;org.immutant/transactions&lt;/code&gt; library to provide
@@ -2304,7 +2304,7 @@
       version Datomic depends on. See &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT-497&quot;&gt;IMMUTANT-497&lt;/a&gt; for more details.&lt;/li&gt;
       &lt;li&gt;HornetQ is now configured via standard configuration files instead
       of via static Java code, allowing you to alter that configuration if
-      need be. See the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-alpha2/apidoc/guide-messaging.html&quot;&gt;messaging guide&lt;/a&gt; for details.&lt;/li&gt;
+      need be. See the &lt;a href=&quot;/documentation/2.0.0-alpha2/apidoc/guide-messaging.html&quot;&gt;messaging guide&lt;/a&gt; for details.&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;We've also released a new version of the &lt;a href=&quot;https://github.com/immutant/lein-immutant/&quot;&gt;lein-immutant&lt;/a&gt; plugin
       (2.0.0-alpha2). You'll need to upgrade to that release if you will use
       alpha2 of Immutant with WildFly.&lt;/p&gt;
@@ -2314,11 +2314,11 @@
       &lt;h2&gt;How to try it&lt;/h2&gt;
       
       &lt;p&gt;If you're already familiar with Immutant 1.x, you should take a look
-      at our &lt;a href=&quot;http://immutant.org/documentation/2.0.0-alpha2/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
+      at our &lt;a href=&quot;/documentation/2.0.0-alpha2/apidoc/guide-migration.html&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
       changed in the Clojure namespaces.&lt;/p&gt;
       
       &lt;p&gt;The guides are another good source of information, along with the
-      rest of the &lt;a href=&quot;http://immutant.org/documentation/2.0.0-alpha2/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
+      rest of the &lt;a href=&quot;/documentation/2.0.0-alpha2/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;For a working example, check out our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application!&lt;/p&gt;
       
@@ -2335,8 +2335,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 2.0.0-alpha2&lt;/h2&gt;
       
@@ -2373,11 +2373,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/09/22/transit-and-immutant/</id>
+    <id>/news/2014/09/22/transit-and-immutant/</id>
     <title>Using Transit with Immutant 2</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-09-22T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/09/22/transit-and-immutant/" rel="alternate" type="text/html" />
+    <link href="/news/2014/09/22/transit-and-immutant/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -2432,13 +2432,13 @@
       
       &lt;p&gt;immutant-transit provides an Immutant &lt;a href=&quot;https://projectodd.ci.cloudbees.com/job/immutant2-incremental/lastSuccessfulBuild/artifact/target/apidocs/immutant.codecs.html&quot;&gt;codec&lt;/a&gt; for Transit that allows
       for transparent encoding and decoding of Transit data when using
-      Immutant's &lt;a href=&quot;http://immutant.org/tutorials/messaging/&quot;&gt;messaging&lt;/a&gt; and &lt;a href=&quot;http://immutant.org/tutorials/caching/&quot;&gt;caching&lt;/a&gt; functionality. Without it, you would
+      Immutant's &lt;a href=&quot;/tutorials/messaging/&quot;&gt;messaging&lt;/a&gt; and &lt;a href=&quot;http://immutant.org/tutorials/caching/&quot;&gt;caching&lt;/a&gt; functionality. Without it, you would
       need to set up the encode/decode logic yourself.&lt;/p&gt;
       
       &lt;h2&gt;Usage&lt;/h2&gt;
       
       &lt;p&gt;&lt;strong&gt;Note: immutant-transit won't work with Immutant 2.0.0-alpha1 -
-       you'll need to use an &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#298 or newer).&lt;/strong&gt;&lt;/p&gt;
+       you'll need to use an &lt;a href=&quot;/builds/2x/&quot;&gt;incremental build&lt;/a&gt; (#298 or newer).&lt;/strong&gt;&lt;/p&gt;
       
       &lt;p&gt;First, we need to add &lt;code&gt;org.immutant/immutant-transit&lt;/code&gt; to our
       application's dependencies:&lt;/p&gt;
@@ -2514,16 +2514,16 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about mmutant-transit,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/08/27/announcing-2-alpha1/</id>
+    <id>/news/2014/08/27/announcing-2-alpha1/</id>
     <title>Immutant 2 (The Deuce) Alpha Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-08-27T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/08/27/announcing-2-alpha1/" rel="alternate" type="text/html" />
+    <link href="/news/2014/08/27/announcing-2-alpha1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2586,8 +2586,8 @@
       at our &lt;a href=&quot;https://github.com/immutant/immutant/blob/thedeuce/docs/migration-guide.md&quot;&gt;migration guide&lt;/a&gt;. It's our attempt at keeping track of what we
       changed in the Clojure namespaces.&lt;/p&gt;
       
-      &lt;p&gt;The &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt; are another good source of information, along with the
-      &lt;a href=&quot;http://immutant.org/documentation/current/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;The &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt; are another good source of information, along with the
+      &lt;a href=&quot;/documentation/current/apidoc/&quot;&gt;apidoc&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;For a working example, check out our &lt;a href=&quot;https://github.com/immutant/feature-demo&quot;&gt;Feature Demo&lt;/a&gt; application!&lt;/p&gt;
       
@@ -2606,16 +2606,16 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/08/01/announcing-1-1-4/</id>
+    <id>/news/2014/08/01/announcing-1-1-4/</id>
     <title>Immutant 1.1.4 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-08-01T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/08/01/announcing-1-1-4/" rel="alternate" type="text/html" />
+    <link href="/news/2014/08/01/announcing-1-1-4/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2654,7 +2654,7 @@
       
       &lt;p&gt;This is strictly a bug fix release and, unless any new bugs are
       reported against it, possibly our last 1.x release. We are now
-      focusing our efforts on &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
+      focusing our efforts on &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
       make every reasonable effort to fix any bugs reported against 1.x, but
       we will only be adding features to 2.x. As always, view our road map
       &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -2690,20 +2690,20 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.1.4
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What's next?&lt;/h2&gt;
       
       &lt;p&gt;As we said above, we'll be focusing on
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative alpha
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative alpha
       release in the next few weeks.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.1.4&lt;/h2&gt;
       
@@ -2718,11 +2718,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/07/31/lein-immutant-1-2-2/</id>
+    <id>/news/2014/07/31/lein-immutant-1-2-2/</id>
     <title>lein-immutant Plugin 1.2.2 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-07-31T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/07/31/lein-immutant-1-2-2/" rel="alternate" type="text/html" />
+    <link href="/news/2014/07/31/lein-immutant-1-2-2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2779,17 +2779,17 @@
       &lt;h2&gt;Get in touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
       issue on
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues&quot;&gt;lein-immutant&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/06/17/announcing-1-1-3/</id>
+    <id>/news/2014/06/17/announcing-1-1-3/</id>
     <title>Immutant 1.1.3 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-06-17T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/06/17/announcing-1-1-3/" rel="alternate" type="text/html" />
+    <link href="/news/2014/06/17/announcing-1-1-3/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -2823,7 +2823,7 @@
       
       &lt;p&gt;This is strictly a bug fix release and, unless any new bugs are
       reported against it, possibly our last 1.x release. We are now
-      focusing our efforts on &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
+      focusing our efforts on &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
       make every reasonable effort to fix any bugs reported against 1.x, but
       we will only be adding features to 2.x. As always, view our road map
       &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -2857,20 +2857,20 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.1.3
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What's next?&lt;/h2&gt;
       
       &lt;p&gt;As we said above, we'll be focusing on
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
       beginning this summer.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.1.3&lt;/h2&gt;
       
@@ -2885,11 +2885,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/06/09/immutant-messaging-2x/</id>
+    <id>/news/2014/06/09/immutant-messaging-2x/</id>
     <title>Messaging with The Deuce</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-06-09T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/06/09/immutant-messaging-2x/" rel="alternate" type="text/html" />
+    <link href="/news/2014/06/09/immutant-messaging-2x/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -2922,10 +2922,10 @@
       queue...
     </summary>
     <content type="html">
-      &lt;p&gt;&lt;a href=&quot;https://flic.kr/p/6ZpegH&quot;&gt;&lt;img src=&quot;http://immutant.org/images/news/mailboxes.jpg&quot; alt=&quot;[mailboxes]&quot; class=&quot;alignleft bordered&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://flic.kr/p/6ZpegH&quot;&gt;&lt;img src=&quot;/images/news/mailboxes.jpg&quot; alt=&quot;[mailboxes]&quot; class=&quot;alignleft bordered&quot;&gt;&lt;/a&gt;&lt;/p&gt;
       
       &lt;p&gt;In this installment of our series on
-      &lt;a href=&quot;http://immutant.org/news/tags/thedeuce/&quot;&gt;getting started with Immutant 2&lt;/a&gt;, we'll take a
+      &lt;a href=&quot;/news/tags/thedeuce/&quot;&gt;getting started with Immutant 2&lt;/a&gt;, we'll take a
       detailed look at the API of our library for messaging, and show
       a few examples of usage.&lt;/p&gt;
       
@@ -2936,15 +2936,15 @@
       
       &lt;h2&gt;The API&lt;/h2&gt;
       
-      &lt;p&gt;The messaging &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/index.html&quot;&gt;API&lt;/a&gt;
+      &lt;p&gt;The messaging &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/index.html&quot;&gt;API&lt;/a&gt;
        is backed by &lt;a href=&quot;http://hornetq.jboss.org/&quot;&gt;HornetQ&lt;/a&gt;, which is an implementation
       of &lt;a href=&quot;https://en.wikipedia.org/wiki/Java_Message_Service&quot;&gt;JMS&lt;/a&gt;. JMS provides two primary destination types: &lt;em&gt;queues&lt;/em&gt; and
       &lt;em&gt;topics&lt;/em&gt;. Queues represent point-to-point destinations, and topics
       publish/subscribe.&lt;/p&gt;
       
       &lt;p&gt;To use a destination, we need to get a reference to one via the
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-queue&quot;&gt;queue&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-topic&quot;&gt;topic&lt;/a&gt;
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-queue&quot;&gt;queue&lt;/a&gt; or
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-topic&quot;&gt;topic&lt;/a&gt;
       functions, depending on the type required. This will create the
       destination if it does not already exist. This is a bit different than
       the 1.x API, which provided a single &lt;code&gt;start&lt;/code&gt; function for this, and
@@ -2956,13 +2956,13 @@
       
       &lt;ul&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-publish&quot;&gt;publish&lt;/a&gt; -
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-publish&quot;&gt;publish&lt;/a&gt; -
       sends a message to the destination&lt;/li&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-receive&quot;&gt;receive&lt;/a&gt; -
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-receive&quot;&gt;receive&lt;/a&gt; -
       receives a single message from the destination&lt;/li&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-listen&quot;&gt;listen&lt;/a&gt; -
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-listen&quot;&gt;listen&lt;/a&gt; -
       registers a function to be called each time a message
       arrives at the destination&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;If the destination is a queue, we can do synchronous messaging
@@ -2970,23 +2970,23 @@
       
       &lt;ul&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-respond&quot;&gt;respond&lt;/a&gt; -
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-respond&quot;&gt;respond&lt;/a&gt; -
       registers a function that receives each request, and the
       returned value will be sent back to the requester&lt;/li&gt;
       &lt;li&gt;
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-request&quot;&gt;request&lt;/a&gt; -
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-request&quot;&gt;request&lt;/a&gt; -
       sends a message to the responder&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;Finally, to deregister listeners, responders, and destinations, we
       provide a single
-      &lt;a href=&quot;http://immutant.org/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-stop&quot;&gt;stop&lt;/a&gt;
+      &lt;a href=&quot;/builds/2x/LATEST/target/apidocs/immutant.messaging.html#var-stop&quot;&gt;stop&lt;/a&gt;
       function. This is another difference from 1.x -
       the &lt;code&gt;unlisten&lt;/code&gt; and &lt;code&gt;stop&lt;/code&gt; functions have been collapsed to &lt;code&gt;stop&lt;/code&gt;.&lt;/p&gt;
       
       &lt;h3&gt;Some Examples&lt;/h3&gt;
       
       &lt;p&gt;The following code fragments were tested against
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;2.x.incremental.133&lt;/a&gt;. You should
-      follow the instructions in the &lt;a href=&quot;http://immutant.org/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post to set up a
+      &lt;a href=&quot;/builds/2x/&quot;&gt;2.x.incremental.133&lt;/a&gt;. You should
+      follow the instructions in the &lt;a href=&quot;/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post to set up a
       project using Immutant 2.x, and add
       &lt;code&gt;[org.immutant/messaging &quot;2.x.incremental.133&quot;]&lt;/code&gt; and
       &lt;code&gt;[cheshire &quot;5.3.1&quot;]&lt;/code&gt; to the project dependencies (we'll be encoding
@@ -3079,17 +3079,17 @@
       &lt;h2&gt;Try it out!&lt;/h2&gt;
       
       &lt;p&gt;As always, we'd love to incorporate your feedback. Find us via our
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
       
       &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;https://flic.kr/p/6ZpegH&quot;&gt;John Lillis&lt;/a&gt; for the image, used under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/2.0/&quot;&gt;CC BY-NC-ND&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/06/05/announcing-1-1-2/</id>
+    <id>/news/2014/06/05/announcing-1-1-2/</id>
     <title>Immutant 1.1.2 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-06-05T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/06/05/announcing-1-1-2/" rel="alternate" type="text/html" />
+    <link href="/news/2014/06/05/announcing-1-1-2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -3125,7 +3125,7 @@
       
       &lt;p&gt;This is primarily a bug fix release and, unless any new bugs are
       reported against it, possibly our last 1.x release. We are now
-      focusing our efforts on &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
+      focusing our efforts on &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
       make every reasonable effort to fix any bugs reported against 1.x, but
       we will only be adding features to 2.x. As always, view our road map
       &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -3151,7 +3151,7 @@
       application (&lt;code&gt;resources/&lt;/code&gt;, &lt;code&gt;src/&lt;/code&gt;, &lt;code&gt;target/classes/&lt;/code&gt;, etc). This
       allows you to override logging settings on a per-application basis,
       including logging to a separate file. See
-      &lt;a href=&quot;http://immutant.org/documentation/1.1.2/jboss.html#sec-5-2&quot;&gt;the docs&lt;/a&gt; for more details.&lt;/li&gt;
+      &lt;a href=&quot;/documentation/1.1.2/jboss.html#sec-5-2&quot;&gt;the docs&lt;/a&gt; for more details.&lt;/li&gt;
       &lt;/ul&gt;&lt;h2&gt;Get It&lt;/h2&gt;
       
       &lt;p&gt;The simplest way to install or upgrade to 1.1.2 is via our
@@ -3160,20 +3160,20 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.1.2
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What's next?&lt;/h2&gt;
       
       &lt;p&gt;As we said above, we'll be focusing on
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
       beginning this summer.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.1.2&lt;/h2&gt;
       
@@ -3188,11 +3188,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/05/16/immutant-scheduling-2x/</id>
+    <id>/news/2014/05/16/immutant-scheduling-2x/</id>
     <title>Schedule Some Time with The Deuce</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-05-16T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/05/16/immutant-scheduling-2x/" rel="alternate" type="text/html" />
+    <link href="/news/2014/05/16/immutant-scheduling-2x/" rel="alternate" type="text/html" />
     <author>
       <name>Jim Crossley</name>
     </author>
@@ -3227,10 +3227,10 @@
       The remainder of the namespace...
     </summary>
     <content type="html">
-      &lt;p&gt;&lt;a href=&quot;https://flic.kr/p/Ea16j&quot;&gt;&lt;img src=&quot;http://immutant.org/images/news/timeclock.jpg&quot; alt=&quot;[timeclock]&quot; class=&quot;alignright&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://flic.kr/p/Ea16j&quot;&gt;&lt;img src=&quot;/images/news/timeclock.jpg&quot; alt=&quot;[timeclock]&quot; class=&quot;alignright&quot;&gt;&lt;/a&gt;&lt;/p&gt;
       
       &lt;p&gt;In this installment of our series on
-      &lt;a href=&quot;http://immutant.org/news/tags/thedeuce/&quot;&gt;getting started with Immutant 2&lt;/a&gt;, we'll take a
+      &lt;a href=&quot;/news/tags/thedeuce/&quot;&gt;getting started with Immutant 2&lt;/a&gt;, we'll take a
       detailed look at the API of our library for scheduling jobs, and show
       a few examples of usage.&lt;/p&gt;
       
@@ -3303,8 +3303,8 @@
       &lt;h3&gt;Some Examples&lt;/h3&gt;
       
       &lt;p&gt;The following code fragments were tested against
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;2.x.incremental.119&lt;/a&gt;. You should read
-      through the &lt;a href=&quot;http://immutant.org/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post and require the &lt;code&gt;immutant.scheduling&lt;/code&gt;
+      &lt;a href=&quot;/builds/2x/&quot;&gt;2.x.incremental.119&lt;/a&gt;. You should read
+      through the &lt;a href=&quot;/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post and require the &lt;code&gt;immutant.scheduling&lt;/code&gt;
       namespace at a REPL to follow along:&lt;/p&gt;
       
       &lt;pre class=&quot;syntax clojure&quot;&gt;(require '[immutant.scheduling :refer :all])&lt;/pre&gt;
@@ -3413,17 +3413,17 @@
       &lt;h2&gt;Try it out!&lt;/h2&gt;
       
       &lt;p&gt;As always, we'd love to incorporate your feedback. Find us via our
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
       
       &lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&quot;https://www.flickr.com/photos/radialmonster/431783164&quot;&gt;Phil Hart&lt;/a&gt; for the image, used under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/05/05/immutant-web-2x/</id>
+    <id>/news/2014/05/05/immutant-web-2x/</id>
     <title>Untangling the Web in The Deuce</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-05-05T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/05/05/immutant-web-2x/" rel="alternate" type="text/html" />
+    <link href="/news/2014/05/05/immutant-web-2x/" rel="alternate" type="text/html" />
     <author>
       <name>Jim Crossley</name>
     </author>
@@ -3482,8 +3482,8 @@
       &lt;li&gt;
       &lt;code&gt;stop&lt;/code&gt; - stops your handler[s]&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;The following code fragments were tested against
-      &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;2.x.incremental.96&lt;/a&gt;. You should read
-      through the &lt;a href=&quot;http://immutant.org/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post and require the &lt;code&gt;immutant.web&lt;/code&gt;
+      &lt;a href=&quot;/builds/2x/&quot;&gt;2.x.incremental.96&lt;/a&gt;. You should read
+      through the &lt;a href=&quot;/news/2014/04/28/getting-started-with-2x/&quot;&gt;getting started&lt;/a&gt; post and require the &lt;code&gt;immutant.web&lt;/code&gt;
       namespace at a REPL to follow along:&lt;/p&gt;
       
       &lt;pre class=&quot;syntax clojure&quot;&gt;(require '[immutant.web :refer :all])&lt;/pre&gt;
@@ -3642,15 +3642,15 @@
       &lt;h2&gt;Try it out!&lt;/h2&gt;
       
       &lt;p&gt;We'd love to hear some feedback on this stuff. Find us on our
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;community&lt;/a&gt; page and join the fun!&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/04/28/getting-started-with-2x/</id>
+    <id>/news/2014/04/28/getting-started-with-2x/</id>
     <title>Getting Started With Immutant 2</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-04-28T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/04/28/getting-started-with-2x/" rel="alternate" type="text/html" />
+    <link href="/news/2014/04/28/getting-started-with-2x/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -3679,13 +3679,13 @@
     </summary>
     <content type="html">
       &lt;p&gt;We're &lt;a href=&quot;http://i.imgur.com/cSSB8Dx.jpg&quot;&gt;hard at work&lt;/a&gt; on
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2.0&lt;/a&gt;, and have a ways to go before we reach
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2.0&lt;/a&gt;, and have a ways to go before we reach
       feature parity with 1.x. But if you are interested in playing with
       what we have now, then this article is for you!&lt;/p&gt;
       
       &lt;h2&gt;Getting Immutant&lt;/h2&gt;
       
-      &lt;p&gt;Our CI server publishes an &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;incremental release&lt;/a&gt; for each
+      &lt;p&gt;Our CI server publishes an &lt;a href=&quot;/builds/2x/&quot;&gt;incremental release&lt;/a&gt; for each
       successful build. In order to use an incremental build, you'll need to
       add a repository and dependencies to your &lt;code&gt;project.clj&lt;/code&gt;. Currently,
       only our &lt;code&gt;scheduling&lt;/code&gt; and &lt;code&gt;web&lt;/code&gt; artifacts contain implementations, so
@@ -3700,11 +3700,11 @@
                         &quot;http://downloads.immutant.org/incremental/&quot;]])&lt;/pre&gt;
       
       &lt;p&gt;replacing &lt;code&gt;BUILD_NUM&lt;/code&gt; with the build number for the version you want
-      to use. You can get the build number from our &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;builds&lt;/a&gt; page - the
+      to use. You can get the build number from our &lt;a href=&quot;/builds/2x/&quot;&gt;builds&lt;/a&gt; page - the
       latest build number is 62 as of this article.&lt;/p&gt;
       
       &lt;p&gt;&lt;strong&gt;Edit: build 62 has been garbage collected - be sure to grab the latest
-      build from the &lt;a href=&quot;http://immutant.org/builds/2x/&quot;&gt;builds&lt;/a&gt; page.&lt;/strong&gt;&lt;/p&gt;
+      build from the &lt;a href=&quot;/builds/2x/&quot;&gt;builds&lt;/a&gt; page.&lt;/strong&gt;&lt;/p&gt;
       
       &lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; We're bringing in the artifacts piecemeal above, but we also provide
       an aggregate artifact that brings in all of the Immutant dependencies
@@ -3738,15 +3738,15 @@
       release our first alpha, probably in mid to late June.&lt;/p&gt;
       
       &lt;p&gt;As always, if you have any questions, comments, or other feedback, feel
-      free to &lt;a href=&quot;http://immutant.org/community&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+      free to &lt;a href=&quot;/community&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/04/08/announcing-1-1-1/</id>
+    <id>/news/2014/04/08/announcing-1-1-1/</id>
     <title>Immutant 1.1.1 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-04-08T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/04/08/announcing-1-1-1/" rel="alternate" type="text/html" />
+    <link href="/news/2014/04/08/announcing-1-1-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -3785,7 +3785,7 @@
       
       &lt;p&gt;This is primarily a bug fix release and, unless any new bugs are
       reported against it, possibly our last 1.x release. We are now
-      focusing our efforts on &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
+      focusing our efforts on &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;The Deuce&lt;/a&gt;. We will
       make every reasonable effort to fix any bugs reported against 1.x, but
       we will only be adding features to 2.x. As always, view our road map
       &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -3823,20 +3823,20 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.1.1
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What's next?&lt;/h2&gt;
       
       &lt;p&gt;As we said above, we'll be focusing on
-      &lt;a href=&quot;http://immutant.org/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
+      &lt;a href=&quot;/news/2014/04/02/the-deuce/&quot;&gt;Immutant 2&lt;/a&gt;, with a tentative release season
       beginning this summer.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.1.1&lt;/h2&gt;
       
@@ -3867,11 +3867,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/04/08/lein-immutant-1-2-1/</id>
+    <id>/news/2014/04/08/lein-immutant-1-2-1/</id>
     <title>lein-immutant Plugin 1.2.1 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-04-08T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/04/08/lein-immutant-1-2-1/" rel="alternate" type="text/html" />
+    <link href="/news/2014/04/08/lein-immutant-1-2-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -3931,17 +3931,17 @@
       &lt;h2&gt;Get in touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
       issue on
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues&quot;&gt;lein-immutant&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/04/02/the-deuce/</id>
+    <id>/news/2014/04/02/the-deuce/</id>
     <title>The Deuce - Plans for Immutant 2</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-04-02T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/04/02/the-deuce/" rel="alternate" type="text/html" />
+    <link href="/news/2014/04/02/the-deuce/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -4058,11 +4058,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/02/04/announcing-1-1-0/</id>
+    <id>/news/2014/02/04/announcing-1-1-0/</id>
     <title>Immutant 1.1.0 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-02-04T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/02/04/announcing-1-1-0/" rel="alternate" type="text/html" />
+    <link href="/news/2014/02/04/announcing-1-1-0/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -4115,7 +4115,7 @@
       &lt;ul&gt;
       &lt;li&gt;We've upgraded &lt;a href=&quot;http://infinispan.org&quot;&gt;Infinispan&lt;/a&gt; to its latest
       version: 6.0.0.Final. This is primarily to support
-      &lt;a href=&quot;http://immutant.org/news/2013/10/28/hotrod-datomic/&quot;&gt;using Immutant as a data store for Datomic&lt;/a&gt;
+      &lt;a href=&quot;/news/2013/10/28/hotrod-datomic/&quot;&gt;using Immutant as a data store for Datomic&lt;/a&gt;
       and offers more stability improvements over the previous release.&lt;/li&gt;
       &lt;li&gt;We've shaved a few seconds off the boot process during application
       deployment. Part of gaining this speedup was no longer loading
@@ -4127,12 +4127,12 @@
       &lt;li&gt;You can now alter the logging level for the console output (and
       &lt;code&gt;server.log&lt;/code&gt;) by setting the &lt;code&gt;jboss.logging.level&lt;/code&gt; system property
       or by passing &lt;code&gt;--log-level&lt;/code&gt; to the &lt;code&gt;immutant run&lt;/code&gt; task of our
-      &lt;a href=&quot;http://immutant.org/install&quot;&gt;plugin&lt;/a&gt; (assuming you are running version
+      &lt;a href=&quot;/install&quot;&gt;plugin&lt;/a&gt; (assuming you are running version
       &lt;a href=&quot;../lein-immutant-1-2-0&quot;&gt;1.2.0&lt;/a&gt; of the plugin or newer).&lt;/li&gt;
       &lt;li&gt;Keyword arguments to our functions are now validated, reducing the
       risk of unexpected behavior due to typos.&lt;/li&gt;
       &lt;li&gt;We've expanded our messaging api to include
-      &lt;a href=&quot;http://immutant.org/documentation/1.1.0/apidoc/immutant.messaging.hornetq.html#var-set-address-options&quot;&gt;per-queue address settings&lt;/a&gt;,
+      &lt;a href=&quot;/documentation/1.1.0/apidoc/immutant.messaging.hornetq.html#var-set-address-options&quot;&gt;per-queue address settings&lt;/a&gt;,
       inspired by &lt;a href=&quot;https://gist.github.com/cemerick/6115017&quot;&gt;Chas' work&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;
       &lt;a href=&quot;https://github.com/clojure/data.fressian&quot;&gt;Fressian&lt;/a&gt; is now a
@@ -4161,8 +4161,8 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.1.0
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;What's next?&lt;/h2&gt;
       
@@ -4179,8 +4179,8 @@
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.1.0&lt;/h2&gt;
       
@@ -4210,11 +4210,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2014/02/04/lein-immutant-1-2-0/</id>
+    <id>/news/2014/02/04/lein-immutant-1-2-0/</id>
     <title>lein-immutant Plugin 1.2.0 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2014-02-04T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2014/02/04/lein-immutant-1-2-0/" rel="alternate" type="text/html" />
+    <link href="/news/2014/02/04/lein-immutant-1-2-0/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -4248,8 +4248,8 @@
       with &lt;a href=&quot;../announcing-1-1-0/&quot;&gt;Immutant 1.1.0&lt;/a&gt; or newer.&lt;/li&gt;
       &lt;li&gt;The &lt;code&gt;immutant run&lt;/code&gt; task also now takes &lt;code&gt;--offset&lt;/code&gt; and &lt;code&gt;--node-name&lt;/code&gt;
       options as shortcuts for using a
-      &lt;a href=&quot;http://immutant.org/tutorials/clustering/&quot;&gt;port offset&lt;/a&gt; and for setting the node name
-      when &lt;a href=&quot;http://immutant.org/tutorials/clustering/&quot;&gt;in a cluster&lt;/a&gt;.&lt;/li&gt;
+      &lt;a href=&quot;/tutorials/clustering/&quot;&gt;port offset&lt;/a&gt; and for setting the node name
+      when &lt;a href=&quot;/tutorials/clustering/&quot;&gt;in a cluster&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;There is now an &lt;code&gt;immutant server&lt;/code&gt; task that is analogous to &lt;code&gt;ring
       server&lt;/code&gt;. It will install Immutant (if not already installed), deploy
       the current application, run Immutant, and open the first web
@@ -4274,17 +4274,17 @@
       &lt;h2&gt;Get in touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
       issue on
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues&quot;&gt;lein-immutant&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/10/28/hotrod-datomic/</id>
+    <id>/news/2013/10/28/hotrod-datomic/</id>
     <title>Immutant as a Datomic Storage Service</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-10-28T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/10/28/hotrod-datomic/" rel="alternate" type="text/html" />
+    <link href="/news/2013/10/28/hotrod-datomic/" rel="alternate" type="text/html" />
     <author>
       <name>Jim Crossley</name>
     </author>
@@ -4334,7 +4334,7 @@
       in Infinispan 5.3.0, the version included in the official Immutant
       1.0.x releases, that prevented the durability of any data written via
       HotRod. So we upgraded to Infinispan 6.0, but that's currently only
-      available in our &lt;a href=&quot;http://immutant.org/builds/&quot;&gt;incremental builds&lt;/a&gt;.&lt;/p&gt;
+      available in our &lt;a href=&quot;/builds/&quot;&gt;incremental builds&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;Installing an incremental build is easy. Just pass &lt;code&gt;LATEST&lt;/code&gt; (or a
       specific build number) for the version:&lt;/p&gt;
@@ -4602,15 +4602,15 @@
       we need to define some best practices around deployment, maybe come up
       with some &lt;a href=&quot;https://www.docker.io/&quot;&gt;Docker&lt;/a&gt; container images, for example.&lt;/p&gt;
       
-      &lt;p&gt;As always, feel free to reach out in the &lt;a href=&quot;http://immutant.org/community&quot;&gt;usual ways&lt;/a&gt; and feedback us!&lt;/p&gt;
+      &lt;p&gt;As always, feel free to reach out in the &lt;a href=&quot;/community&quot;&gt;usual ways&lt;/a&gt; and feedback us!&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/10/18/announcing-1-0-2/</id>
+    <id>/news/2013/10/18/announcing-1-0-2/</id>
     <title>Immutant 1.0.2 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-10-18T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/10/18/announcing-1-0-2/" rel="alternate" type="text/html" />
+    <link href="/news/2013/10/18/announcing-1-0-2/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -4669,12 +4669,12 @@
       &lt;a href=&quot;http://datomic.com&quot;&gt;Datomic&lt;/a&gt; data store. We'll provide more details
       on this in a future blog post.&lt;/li&gt;
       &lt;li&gt;We now
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.2/web.html#sec-11&quot;&gt;expose the max number of HTTP connections&lt;/a&gt;
+      &lt;a href=&quot;/documentation/1.0.2/web.html#sec-11&quot;&gt;expose the max number of HTTP connections&lt;/a&gt;
       as a system property.&lt;/li&gt;
       &lt;li&gt;We've attempted to make the &lt;code&gt;immutant.cache&lt;/code&gt; API more functional by
-      introducing a &lt;a href=&quot;http://immutant.org/documentation/1.0.2/apidoc/immutant.cache.html#var-swap%21&quot;&gt;swap!&lt;/a&gt; function.&lt;/li&gt;
+      introducing a &lt;a href=&quot;/documentation/1.0.2/apidoc/immutant.cache.html#var-swap%21&quot;&gt;swap!&lt;/a&gt; function.&lt;/li&gt;
       &lt;li&gt;We've extended the 
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.2/apidoc/immutant.pipeline.html#var-fanout&quot;&gt;fanout&lt;/a&gt;
+      &lt;a href=&quot;/documentation/1.0.2/apidoc/immutant.pipeline.html#var-fanout&quot;&gt;fanout&lt;/a&gt;
       capabilities of pipelines.&lt;/li&gt;
       &lt;li&gt;We now default &lt;code&gt;:nrepl-port&lt;/code&gt; to 0 when the &lt;code&gt;:dev&lt;/code&gt; profile is active.&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;The last item deserves some emphasis. What it means is that unless you
@@ -4688,12 +4688,12 @@
       to localhost by default and unlikely to be exposed.&lt;/p&gt;
       
       &lt;p&gt;The rest was mostly
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.2/development.html&quot;&gt;doc enhancements&lt;/a&gt; and bug
+      &lt;a href=&quot;/documentation/1.0.2/development.html&quot;&gt;doc enhancements&lt;/a&gt; and bug
       fixes, listed below. We wanted to give a special shout-out to
       &lt;a href=&quot;http://ianeslick.com/&quot;&gt;Ian Eslick&lt;/a&gt; for not only contributing the fix
       for &lt;a href=&quot;https://issues.jboss.org/browse/IMMUTANT-365&quot;&gt;IMMUTANT-365&lt;/a&gt; but
       also helping us make the
-      &lt;a href=&quot;http://immutant.org/news/2013/10/18/lein-immutant-1-1-0/&quot;&gt;lein-immutant&lt;/a&gt; plugin's &lt;code&gt;test&lt;/code&gt;
+      &lt;a href=&quot;/news/2013/10/18/lein-immutant-1-1-0/&quot;&gt;lein-immutant&lt;/a&gt; plugin's &lt;code&gt;test&lt;/code&gt;
       task more robust. Thanks!&lt;/p&gt;
       
       &lt;h2&gt;Get It&lt;/h2&gt;
@@ -4704,14 +4704,14 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.0.2
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.0.2&lt;/h2&gt;
       
@@ -4737,11 +4737,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/10/18/lein-immutant-1-1-0/</id>
+    <id>/news/2013/10/18/lein-immutant-1-1-0/</id>
     <title>lein-immutant Plugin 1.1.0 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-10-18T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/10/18/lein-immutant-1-1-0/" rel="alternate" type="text/html" />
+    <link href="/news/2013/10/18/lein-immutant-1-1-0/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -4802,17 +4802,17 @@
       &lt;h2&gt;Get in touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
       issue on
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues&quot;&gt;lein-immutant&lt;/a&gt;.&lt;/p&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/09/23/websocket-sockjs-part-deux/</id>
+    <id>/news/2013/09/23/websocket-sockjs-part-deux/</id>
     <title>WebSockets and SockJS with Immutant and Vert.x - Part 2</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-09-23T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/09/23/websocket-sockjs-part-deux/" rel="alternate" type="text/html" />
+    <link href="/news/2013/09/23/websocket-sockjs-part-deux/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -4839,14 +4839,14 @@
     </summary>
     <content type="html">
       &lt;p&gt;This is a followup to our
-      &lt;a href=&quot;http://immutant.org/news/2013/09/17/websocket-sockjs/&quot;&gt;post last week on WebSockets with Vert.x&lt;/a&gt;. If you haven't read
+      &lt;a href=&quot;/news/2013/09/17/websocket-sockjs/&quot;&gt;post last week on WebSockets with Vert.x&lt;/a&gt;. If you haven't read
       it, you should do so now. In that post, we set up a simple echo
       service in &lt;a href=&quot;http://vertx.io/&quot;&gt;Vert.x&lt;/a&gt; that bridged the Vert.x &lt;a href=&quot;https://github.com/vert-x/mod-lang-clojure/blob/master/docs/core_manual_clojure.md#the-event-bus&quot;&gt;EventBus&lt;/a&gt; to the
       browser. But that echo service wasn't very useful - there was no way
       to process incoming messages outside of the daemon, and no way to send
       messages down to the browser client from other parts of the
       application. Today, we're going to look at bridging the EventBus over
-      to &lt;a href=&quot;http://immutant.org/documentation/current/messaging.html&quot;&gt;Immutant messaging&lt;/a&gt;, allowing us to actually interact with the
+      to &lt;a href=&quot;/documentation/current/messaging.html&quot;&gt;Immutant messaging&lt;/a&gt;, allowing us to actually interact with the
       client from anywhere within our application.&lt;/p&gt;
       
       &lt;h2&gt;Our application&lt;/h2&gt;
@@ -4865,7 +4865,7 @@
       you send messages and see those messages echoed back, but now they
       come back in uppercase:&lt;/p&gt;
       
-      &lt;p&gt;&lt;img src=&quot;http://immutant.org/images/news/sockjs2.png&quot; alt=&quot;[UI activity]&quot; class=&quot;bordered aligncenter&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/news/sockjs2.png&quot; alt=&quot;[UI activity]&quot; class=&quot;bordered aligncenter&quot;&gt;&lt;/p&gt;
       
       &lt;h2&gt;Let's see some code!&lt;/h2&gt;
       
@@ -4951,7 +4951,7 @@
       &lt;p&gt;Now that we've bridged the EventBus to the Immutant messaging system,
       we can interact with our client UI from anywhere within our
       application. Just to beat the horse a bit more, let's do it from the
-      repl. Connect to the &lt;a href=&quot;http://immutant.org/documentation/current/development.html#interactive&quot;&gt;nREPL endpoint&lt;/a&gt; in the application running on
+      repl. Connect to the &lt;a href=&quot;/documentation/current/development.html#interactive&quot;&gt;nREPL endpoint&lt;/a&gt; in the application running on
       port &lt;code&gt;5309&lt;/code&gt;[^2] using your favorite client, then try sending messages
       directly to the response topic, or to the request queue to have them
       uppercased first:&lt;/p&gt;
@@ -4971,21 +4971,21 @@
       
       &lt;p&gt;And see them all displayed in the client UI:&lt;/p&gt;
       
-      &lt;p&gt;&lt;img src=&quot;http://immutant.org/images/news/sockjs3.png&quot; alt=&quot;[repl UI activity]&quot; class=&quot;bordered aligncenter&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/news/sockjs3.png&quot; alt=&quot;[repl UI activity]&quot; class=&quot;bordered aligncenter&quot;&gt;&lt;/p&gt;
       
       &lt;h2&gt;Fare thee well&lt;/h2&gt;
       
-      &lt;p&gt;We've extended our &lt;a href=&quot;http://immutant.org/news/2013/09/17/websocket-sockjs/&quot;&gt;prior example&lt;/a&gt; to make it actually useful, and
+      &lt;p&gt;We've extended our &lt;a href=&quot;/news/2013/09/17/websocket-sockjs/&quot;&gt;prior example&lt;/a&gt; to make it actually useful, and
       maintained a separation of concerns within our application - code
       outside of the &lt;code&gt;demo.bridge&lt;/code&gt; namespace has no knowledge of Vert.x, nor
       of the UI communication mechanism. We think this provides a compelling
       way to provide dynamic updates to the browser, but if you don't, or
       have any other questions, comments, or feedback, please
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
       
       &lt;hr&gt;&lt;ol&gt;
       &lt;li&gt;[^1] This assumes you have a recent Immutant
-      &lt;a href=&quot;http://immutant.org/install/&quot;&gt;installed&lt;/a&gt;.&lt;/li&gt;
+      &lt;a href=&quot;/install/&quot;&gt;installed&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;[^2] The demo application specifies &lt;code&gt;5309&lt;/code&gt; as the &lt;code&gt;:nrepl-port&lt;/code&gt; in
       its &lt;code&gt;project.clj&lt;/code&gt;. If you have &lt;code&gt;:immutant {:nrepl-port some-port}&lt;/code&gt;
       set in your &lt;code&gt;~/.lein/profiles.clj&lt;/code&gt;, that will override &lt;code&gt;5309&lt;/code&gt; and
@@ -4994,11 +4994,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/09/17/websocket-sockjs/</id>
+    <id>/news/2013/09/17/websocket-sockjs/</id>
     <title>WebSockets and SockJS with Immutant and Vert.x</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-09-17T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/09/17/websocket-sockjs/" rel="alternate" type="text/html" />
+    <link href="/news/2013/09/17/websocket-sockjs/" rel="alternate" type="text/html" />
     <author>
       <name>Toby Crawley</name>
     </author>
@@ -5025,7 +5025,7 @@
     <content type="html">
       &lt;p&gt;Currently, Immutant doesn't provide any native WebSockets
       support. However, it is possible to use another WebSockets-capable
-      server from within an &lt;a href=&quot;http://immutant.org/documentation/current/daemons.html&quot;&gt;Immutant daemon&lt;/a&gt;. There are quite a few
+      server from within an &lt;a href=&quot;/documentation/current/daemons.html&quot;&gt;Immutant daemon&lt;/a&gt;. There are quite a few
       well-known options in the Clojure ecosystem that we could use here,
       like &lt;a href=&quot;https://github.com/ztellman/aleph&quot;&gt;Aleph&lt;/a&gt;, &lt;a href=&quot;http://http-kit.org/&quot;&gt;http-kit&lt;/a&gt;, or raw &lt;a href=&quot;http://www.eclipse.org/jetty/&quot;&gt;Jetty&lt;/a&gt; or &lt;a href=&quot;http://netty.io/&quot;&gt;Netty&lt;/a&gt;. Instead, we're
       going to use a relative newcomer to the Clojure space: &lt;a href=&quot;http://vertx.io/&quot;&gt;Vert.x&lt;/a&gt;.&lt;/p&gt;
@@ -5053,7 +5053,7 @@
       
       &lt;p&gt;To demonstrate using the Vert.x EventBus bridge from Immutant, we're
       going to look at a simple application that embeds[^1] Vert.x into an
-      &lt;a href=&quot;http://immutant.org/documentation/current/daemons.html&quot;&gt;Immutant daemon&lt;/a&gt; to provide an echo service over the EventBus.&lt;/p&gt;
+      &lt;a href=&quot;/documentation/current/daemons.html&quot;&gt;Immutant daemon&lt;/a&gt; to provide an echo service over the EventBus.&lt;/p&gt;
       
       &lt;p&gt;To get started,
       &lt;a href=&quot;https://github.com/immutant/simple-immutant-vertx-demo&quot;&gt;clone the app&lt;/a&gt;
@@ -5068,7 +5068,7 @@
       a browser with a Network console, you should be able to see the
       the SockJS WebSockets traffic, like so:&lt;/p&gt;
       
-      &lt;p&gt;&lt;img src=&quot;http://immutant.org/images/news/sockjs.png&quot; alt=&quot;[websocket activity]&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/news/sockjs.png&quot; alt=&quot;[websocket activity]&quot;&gt;&lt;/p&gt;
       
       &lt;h2&gt;Let's see some code!&lt;/h2&gt;
       
@@ -5175,28 +5175,28 @@
       know how it goes.&lt;/p&gt;
       
       &lt;p&gt;Watch for a post in the future that presents a more complex
-      application that bridges the Vert.x EventBus to &lt;a href=&quot;http://immutant.org/documentation/current/messaging.html&quot;&gt;Immutant messaging&lt;/a&gt;
+      application that bridges the Vert.x EventBus to &lt;a href=&quot;/documentation/current/messaging.html&quot;&gt;Immutant messaging&lt;/a&gt;
       destinations.&lt;/p&gt;
       
       &lt;p&gt;If you have any questions, comments, or feedback, please
-      &lt;a href=&quot;http://immutant.org/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+      &lt;a href=&quot;/community/&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
       
       &lt;hr&gt;&lt;ol&gt;
       &lt;li&gt;[^1] Vert.x provides its own &lt;a href=&quot;http://vertx.io/manual.html#using-vertx-from-the-command-line&quot;&gt;application container&lt;/a&gt;, but we're
       using it embedded, which is an advanced usage.&lt;/li&gt;
       &lt;li&gt;[^2] This assumes you have a recent Immutant
-      &lt;a href=&quot;http://immutant.org/install/&quot;&gt;installed&lt;/a&gt;.&lt;/li&gt;
+      &lt;a href=&quot;/install/&quot;&gt;installed&lt;/a&gt;.&lt;/li&gt;
       &lt;li&gt;[^3] For this example, we're not securing the EventBus bridge at
       all. &lt;a href=&quot;https://github.com/vert-x/mod-lang-clojure/blob/master/docs/core_manual_clojure.md#securing-the-bridge&quot;&gt;Doing so&lt;/a&gt; is probably a good idea.&lt;/li&gt;
       &lt;/ol&gt;
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/08/28/announcing-1-0-1/</id>
+    <id>/news/2013/08/28/announcing-1-0-1/</id>
     <title>Immutant 1.0.1 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-08-28T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/08/28/announcing-1-0-1/" rel="alternate" type="text/html" />
+    <link href="/news/2013/08/28/announcing-1-0-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -5262,13 +5262,13 @@
       &lt;li&gt;Custom nREPL handlers and middleware in your &lt;code&gt;project.clj&lt;/code&gt; are now
       activated at deployment&lt;/li&gt;
       &lt;li&gt;Introduced &lt;code&gt;immutant.messaging/with-connection&lt;/code&gt; to facilitate better
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.1/messaging.html#sec-3-3&quot;&gt;connection re-use&lt;/a&gt;
+      &lt;a href=&quot;/documentation/1.0.1/messaging.html#sec-3-3&quot;&gt;connection re-use&lt;/a&gt;
       &lt;/li&gt;
       &lt;li&gt;Introduced &lt;code&gt;immutant.cache.core/builder&lt;/code&gt; to enable
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.1/caching.html#advanced-config&quot;&gt;advanced configuration&lt;/a&gt;
+      &lt;a href=&quot;/documentation/1.0.1/caching.html#advanced-config&quot;&gt;advanced configuration&lt;/a&gt;
       of an Infinispan cache &lt;/li&gt;
       &lt;li&gt;The pipeline namespace now provides a
-      &lt;a href=&quot;http://immutant.org/documentation/1.0.1/apidoc/immutant.pipeline.html#var-fanout&quot;&gt;fanout&lt;/a&gt;
+      &lt;a href=&quot;/documentation/1.0.1/apidoc/immutant.pipeline.html#var-fanout&quot;&gt;fanout&lt;/a&gt;
       function to split a sequence into individual pipeline executions&lt;/li&gt;
       &lt;/ul&gt;&lt;p&gt;See below for a full list of issues.&lt;/p&gt;
       
@@ -5287,20 +5287,20 @@
       &lt;pre&gt;&lt;code&gt;$ lein immutant install 1.0.1
       &lt;/code&gt;&lt;/pre&gt;
       
-      &lt;p&gt;See our &lt;a href=&quot;http://immutant.org/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
-      installed, take a look at our &lt;a href=&quot;http://immutant.org/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;See our &lt;a href=&quot;/install/&quot;&gt;install page&lt;/a&gt; for more details. Once you have it
+      installed, take a look at our &lt;a href=&quot;/tutorials/&quot;&gt;tutorials&lt;/a&gt;.&lt;/p&gt;
       
       &lt;p&gt;Alternatively, you can try the
       &lt;a href=&quot;https://github.com/immutant/openshift-immutant-cart&quot;&gt;OpenShift Immutant cartridge&lt;/a&gt;,
       which has been updated to 1.0.1. Our
-      &lt;a href=&quot;http://immutant.org/news/2013/08/20/openshift-clustering/&quot;&gt;OpenShift clustering tutorial&lt;/a&gt;
+      &lt;a href=&quot;/news/2013/08/20/openshift-clustering/&quot;&gt;OpenShift clustering tutorial&lt;/a&gt;
       shows you how.&lt;/p&gt;
       
       &lt;h2&gt;Get In Touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback about Immutant,
-      you can always find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
-      &lt;a href=&quot;http://immutant.org/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
+      you can always find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or
+      &lt;a href=&quot;/community/mailing_lists&quot;&gt;our mailing lists&lt;/a&gt;. &lt;/p&gt;
       
       &lt;h2&gt;Issues resolved in 1.0.1&lt;/h2&gt;
       
@@ -5325,11 +5325,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/08/20/openshift-clustering/</id>
+    <id>/news/2013/08/20/openshift-clustering/</id>
     <title>Clustering Immutants on OpenShift</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-08-20T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/08/20/openshift-clustering/" rel="alternate" type="text/html" />
+    <link href="/news/2013/08/20/openshift-clustering/" rel="alternate" type="text/html" />
     <author>
       <name>Jim Crossley</name>
     </author>
@@ -5441,7 +5441,7 @@
       screen as the cluster-demo app starts logging its output. Eventually,
       the app should settle into a steady state looking something like this:&lt;/p&gt;
       
-      &lt;p&gt;&lt;img src=&quot;http://immutant.org/images/news/demo-log.png&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/news/demo-log.png&quot;&gt;&lt;/p&gt;
       
       &lt;h2&gt;The cluster-demo app&lt;/h2&gt;
       
@@ -5612,11 +5612,11 @@
     </content>
   </entry>
   <entry>
-    <id>http://immutant.org/news/2013/08/09/lein-immutant-1-0-1/</id>
+    <id>/news/2013/08/09/lein-immutant-1-0-1/</id>
     <title>lein-immutant Plugin 1.0.1 Released</title>
     <updated>2018-01-22T11:53:22-05:00</updated>
     <published>2013-08-09T00:00:00+00:00</published>
-    <link href="http://immutant.org/news/2013/08/09/lein-immutant-1-0-1/" rel="alternate" type="text/html" />
+    <link href="/news/2013/08/09/lein-immutant-1-0-1/" rel="alternate" type="text/html" />
     <author>
       <name>The Immutant Team</name>
     </author>
@@ -5672,7 +5672,7 @@
       &lt;h2&gt;Get in touch&lt;/h2&gt;
       
       &lt;p&gt;If you have any questions, issues, or other feedback, you can always
-      find us on &lt;a href=&quot;http://immutant.org/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
+      find us on &lt;a href=&quot;/community/&quot;&gt;#immutant on freenode&lt;/a&gt; or you can file an
       issue on
       &lt;a href=&quot;https://github.com/immutant/lein-immutant/issues&quot;&gt;lein-immutant&lt;/a&gt;.&lt;/p&gt;
     </content>
