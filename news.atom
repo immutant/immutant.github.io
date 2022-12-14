@@ -1387,7 +1387,7 @@
       
       &lt;p&gt;Immutant is built on an abstraction layer called &lt;a href=&quot;https://github.com/projectodd/wunderboss/&quot;&gt;WunderBoss&lt;/a&gt; in order
       to share much of the implementation with our sibling project,
-      &lt;a href=&quot;http://torquebox.org/&quot;&gt;TorqueBox&lt;/a&gt;. An additional advantage of this layer is it allows us (in
+      &lt;a href=&quot;/&quot;&gt;TorqueBox&lt;/a&gt;. An additional advantage of this layer is it allows us (in
       theory) to easily switch out the underlying messaging implementation
       while keeping the same Clojure API. With the release of Artemis 1.0.0,
       we've now taken the opportunity to test that theory.&lt;/p&gt;
@@ -4027,7 +4027,7 @@
       deployment, which has been a source of bugs from the more
       &lt;em&gt;adventurous&lt;/em&gt; &lt;code&gt;project.clj&lt;/code&gt; files.&lt;/p&gt;
       
-      &lt;p&gt;This also obviates &lt;a href=&quot;https://github.com/immutant/overlay&quot;&gt;overlay&lt;/a&gt;, another source of bugs. &lt;a href=&quot;http://torquebox.org/&quot;&gt;TorqueBox&lt;/a&gt; 4.x
+      &lt;p&gt;This also obviates &lt;a href=&quot;https://github.com/immutant/overlay&quot;&gt;overlay&lt;/a&gt;, another source of bugs. &lt;a href=&quot;/&quot;&gt;TorqueBox&lt;/a&gt; 4.x
       apps will work like Immutant 2.x, simple jar files deployed to stock
       WildFly/EAP installations, achieving the same features available from
       &lt;a href=&quot;https://github.com/immutant/overlay&quot;&gt;overlay&lt;/a&gt; today, without the brittle complexity.&lt;/p&gt;
